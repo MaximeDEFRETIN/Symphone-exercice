@@ -1,0 +1,4 @@
+services:
+#    candidate.example:
+#        class: E2N\PlatformBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
